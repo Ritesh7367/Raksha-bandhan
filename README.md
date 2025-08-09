@@ -1242,7 +1242,7 @@ p {
           Having a sister like you is a blessing beyond words. You’ve been my protector, confidant, and best friend. On this Raksha Bandhan, I wish you all the happiness, love, and success that you so richly deserve. 
           <b>Happy Raksha Bandhan!</b>
         </p>
-        <video src="https://res.cloudinary.com/dnmzvkfkn/video/upload/v1754733187/WhatsApp_Video_2025-08-09_at_13.30.30_d4c372c7_ni6nsq.mp4" width="320" height="240"autoplay controls loop></video>
+<video src="https://res.cloudinary.com/dnmzvkfkn/video/upload/v1754733187/WhatsApp_Video_2025-08-09_at_13.30.30_d4c372c7_ni6nsq.mp4" width="320" height="240"autoplay controls loop></video>
         <br /><br />
         <p>Note: Play the video before reading further.</p>
 
